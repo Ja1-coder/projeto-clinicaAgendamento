@@ -1,0 +1,9 @@
+# Diretórios e arquivos gerados pelo NetBeans
+nbproject/private/
+build/
+dist/
+
+# Outros exemplos úteis
+*.class      # Arquivos compilados em Java
+*.log        # Arquivos de log
+*.bak        # Arquivos de backup
